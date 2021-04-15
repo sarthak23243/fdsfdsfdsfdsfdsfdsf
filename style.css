@@ -1,0 +1,87 @@
+body {
+    background-color: yellow;
+
+    font-family: 'Dancing Script', cursive;
+}
+
+#sarthak {
+    background-color: white;
+
+    color: blue;
+
+
+}
+
+#sarthak img {
+    width: 100px;
+
+
+
+
+
+
+}
+
+#qwe {
+    background-color: green;
+
+    padding: 10px;
+
+    margin-top: 15px;
+
+    border: 3px solid white;
+
+}
+
+#qwe label {
+    background-color: teal;
+
+    padding: 10px;
+
+    margin-bottom: 0px;
+
+    box-shadow: 5px 5px 19px teal;
+
+    width: 310px;
+}
+
+#camera {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 19px white;
+}
+
+#qwe button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 19px white;
+    border: 1px solid;
+}
+
+#edit1 {
+ left: 0px;
+    width: 70px;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 19px;
+
+}
+.copy_right_footer{
+    position: fixed;
+font-weight: bold;
+ line-height: 40px;
+    background-color: white;
+    width: 100%;
+ bottom: 0px;
+ text-align: center;
+ font-size: 19px;
+}
